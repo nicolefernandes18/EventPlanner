@@ -13,9 +13,9 @@ Functionalities of this App :
 - Take a report of the completed tasks
 - manage invitations via Email
 
--- Task - Add/Edit/Delete all the To Do List
--- Vendor - Add/Edit/Delete all the Vendor List
--- Events - Add/Edit/Delete all the Events 
--- Guest - Add/Edit/Delete all the Guest List and manage logistics
--- Budget - Maintain and calculate budget
--- Event Profile - Update event profile
+- Task - Add/Edit/Delete all the To Do List
+- Vendor - Add/Edit/Delete all the Vendor List
+- Events - Add/Edit/Delete all the Events 
+- Guest - Add/Edit/Delete all the Guest List and manage logistics
+- Budget - Maintain and calculate budget
+- Event Profile - Update event profile
